@@ -53,10 +53,13 @@ Ex:
 
 
 **STEP**
-mkdir soal_2
-cd soal_2
-nano pasti_bisa.c
-gcc -o pasti_bisa pasti_bisa.c -lssl -lcrypto -lfuse -D_FILE_OFFSET_BITS=64
+1. mkdir soal_2
+2. cd soal_2
+3. nano pasti_bisa.c
+4. gcc -o pasti_bisa pasti_bisa.c -lssl -lcrypto -lfuse -D_FILE_OFFSET_BITS=64
+5. fusermount -u ~/soal_2/mnt_point
+6. ./pasti_bisa -f ~/soal_2/mnt_point
+
 
 
 **DOKUMENTASI**
