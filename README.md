@@ -26,13 +26,29 @@ Mereka harus mengubah permission pada file "script.sh" agar bisa dijalankan, kar
 Adfi dan timnya juga ingin menambahkan fitur baru dengan membuat file dengan prefix "test" yang ketika disimpan akan mengalami pembalikan (reverse) isi dari file tersebut.  
 
 **STEP**
-
+1. Membuat directory untuk mount.
+2. Membuat program dengan 'nano ini-karya-kita.c'
+3. Compile dengan 'gcc -Wall `pkg-config fuse --cflags` inikaryakita.c -o inikaryakita `pkg-config fuse --libs` `pkg-config --cflags --libs MagickWand` -lcurl -lzip'
+4. Mengakses mount directory.
 
 **DOKUMENTASI**
+1. Hasil watermark di foto yang dipindah ke directory dengan prefix wm
 
+![image](https://github.com/haidarRA/Sisop-4-2024-MH-IT03/assets/149871906/07e02d3c-299d-45a3-80ac-1e63f1e9a048)
 
+2. Permission script.sh yang sudah diganti sehingga script.sh dapat dijalankan
 
+![image](https://github.com/haidarRA/Sisop-4-2024-MH-IT03/assets/149871906/67b31d89-d1db-4bcf-ba33-ecab0f0e5138)
 
+3. Isi dari file dengan prefix test yang di-reverse setelah disimpan
+
+![image](https://github.com/haidarRA/Sisop-4-2024-MH-IT03/assets/149871906/8efe89fa-6600-4198-b001-b3cb8b64db73)
+
+**KENDALA YANG DIHADAPI SAAT PENGERJAAN**
+1. Program tidak bisa mendownload dan/atau mengekstrak file dari drive secara tepat.
+
+**REVISI**
+1. Tidak ada
 
 # Soal 2
 
