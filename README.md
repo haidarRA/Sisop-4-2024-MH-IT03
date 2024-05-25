@@ -78,7 +78,7 @@ Ex:
 **STEP**
 1. mkdir soal_2
 2. cd soal_2
-3. nano pasti_bisa.c
+3. nano pastibisa.c
 4. gcc -o pasti_bisa pasti_bisa.c -lssl -lcrypto -lfuse -D_FILE_OFFSET_BITS=64
 5. fusermount -u ~/soal_2/mnt_point
 6. ./pasti_bisa -f ~/soal_2/mnt_point
@@ -86,7 +86,8 @@ Ex:
 
 
 **DOKUMENTASI**
-![Screenshot 2024-05-21 225909](https://github.com/haidarRA/Sisop-4-2024-MH-IT03/assets/150374973/d2d766c0-c74d-4c86-a5dd-8d9bf72ac7b6)
+![Screenshot 2024-05-25 213956](https://github.com/haidarRA/Sisop-4-2024-MH-IT03/assets/150374973/b920db31-487f-4f08-8961-06a341c5a54f)
+
 
 
 
