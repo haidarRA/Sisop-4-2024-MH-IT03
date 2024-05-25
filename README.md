@@ -88,6 +88,23 @@ Ex:
 **DOKUMENTASI**
 ![Screenshot 2024-05-25 213956](https://github.com/haidarRA/Sisop-4-2024-MH-IT03/assets/150374973/b920db31-487f-4f08-8961-06a341c5a54f)
 
+1. File sebelum decrypt
+
+![image](https://github.com/haidarRA/Sisop-4-2024-MH-IT03/assets/149871906/b8a3c24a-7f42-49e7-8be6-7e2784b12ff3)
+
+2. File setelah decrypt
+
+![image](https://github.com/haidarRA/Sisop-4-2024-MH-IT03/assets/149871906/9b0b7356-8db5-4ff1-9884-186930053fad)
+
+3. Tampilan input password sebelum mengakses directory rahasia-berkas
+
+![image](https://github.com/haidarRA/Sisop-4-2024-MH-IT03/assets/149871906/d71a9f2a-de81-4b67-bb3c-e7064e3d908e)
+
+4. Isi dari log file (fuse_log.txt)
+
+![image](https://github.com/haidarRA/Sisop-4-2024-MH-IT03/assets/149871906/89c44164-0769-4ee5-9123-6e288daa7536)
+
+
 **KENDALA**
 1. Terdapat error
 2. Tidak mau membaca enkripsi
