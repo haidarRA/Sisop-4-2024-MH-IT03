@@ -88,6 +88,11 @@ Ex:
 **DOKUMENTASI**
 ![Screenshot 2024-05-25 213956](https://github.com/haidarRA/Sisop-4-2024-MH-IT03/assets/150374973/b920db31-487f-4f08-8961-06a341c5a54f)
 
+**KENDALA**
+1. Terdapat error
+2. Tidak mau membaca enkripsi
+3. tidak muncul password
+
 
 
 
