@@ -137,7 +137,25 @@ pada soal 3c, cukup salin secara manual. File Server hanya untuk membuktikan bah
 
 
 **STEP**
-
+1. buat direktori
+```
+.
+├── [nama_bebas]
+├── relics
+│   ├── relic_1.png.000
+│   ├── relic_1.png.001
+│   ├── dst dst…
+│   └── relic_9.png.010
+└── report
+```
+2. install relics dari zip yang diberi
+3. buat archeology.c
+4. run archeology.c
+5. coba copy file
+6. coba hapus file
+7. sesuaikan
+   
+  
 
 
 
@@ -145,5 +163,17 @@ pada soal 3c, cukup salin secara manual. File Server hanya untuk membuktikan bah
 
 
 
+![image](https://github.com/haidarRA/Sisop-4-2024-MH-IT03/assets/151866048/451c5ee0-e12b-4962-94ce-b8c105f3b0d5)
+
+
+![image](https://github.com/haidarRA/Sisop-4-2024-MH-IT03/assets/151866048/40be2bf0-e9f2-406a-bca4-71eaa16cdf1b)
+
+
+![image](https://github.com/haidarRA/Sisop-4-2024-MH-IT03/assets/151866048/0a9a6655-4238-4cac-9ad2-e9aef11c10c1)
+
+
+
 **problem**
+
+disini saya terdapat banyak problem yang dimana mulai dari error dll, dan untuk kode saya ini berjalan dengan lancar namun hanya tertinggal 1 fitur yaitu menggabungkan file relicnya.
 
